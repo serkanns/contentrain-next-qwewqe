@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
-    "jsx": "preserve",
+    "jsx": "preserwve",
     "strict": false,
     "esModuleInterop": true,
     "skipLibCheck": true,
